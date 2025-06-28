@@ -21,16 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-from-june-to-august-2024-i-will-be-joining-cryptolab-in-lyon-france-as-a-research-intern",
+          title: 'From June to August 2024, I will be joining CryptoLab in Lyon, France...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-my-first-paper-efficient-full-domain-functional-bootstrapping-from-recursive-lut-decomposition-was-accepted-to-sac-2025-and-will-be-presented-this-august-in-canada",
+          title: 'My first paper, “Efficient Full Domain Functional Bootstrapping from Recursive LUT Decomposition” was...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
