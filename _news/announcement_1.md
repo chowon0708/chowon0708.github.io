@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-06-23 10:00:00 +0900
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+From June to August 2024, I will be joining *CryptoLab* in *Lyon, France* as a research intern!  
