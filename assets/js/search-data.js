@@ -24,7 +24,7 @@ ninja.data = [{
             },},{id: "news-from-june-to-august-2024-i-will-be-joining-cryptolab-in-lyon-france-as-a-research-intern",
           title: 'From June to August 2024, I will be joining CryptoLab in Lyon, France...',
           description: "",
-          section: "News",},{id: "news-my-first-paper-efficient-full-domain-functional-bootstrapping-from-recursive-lut-decomposition-was-accepted-to-sac-2025-and-will-be-presented-this-august-in-canada",
+          section: "News",},{id: "news-my-first-paper-efficient-full-domain-functional-bootstrapping-from-recursive-lut-decomposition-was-accepted-to-sac-2025-and-will-be-presented-this-august-in-canada-eprint",
           title: 'My first paper, “Efficient Full Domain Functional Bootstrapping from Recursive LUT Decomposition” was...',
           description: "",
           section: "News",},{id: "projects-project-1",
