@@ -3,16 +3,17 @@ layout: default
 ---
 <div class="post">
   <style>
+    html, body { height: 100%; margin: 0; }
     .pdf-wrap { position: relative; height: 100svh; }
-    .pdf-viewer { width: 100%; height: 100%; border: 0; display: block; }
+    .pdf-embed { width: 100%; height: 100%; border: 0; display: block; }
   </style>
 
   <div class="pdf-wrap">
-    <iframe
-      class="pdf-viewer"
-      src="../assets/pdf/CV_20250803.pdf#toolbar=0&navpanes=0&pagemode=none"
-      title="CV PDF"
-    ></iframe>
+    <embed
+      class="pdf-embed"
+      src="../assets/pdf/CV_20250803.pdf#pagemode=none&toolbar=0&navpanes=0"
+      type="application/pdf"
+      title="CV"
+    />
   </div>
 </div>
-
