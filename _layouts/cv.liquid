@@ -5,11 +5,25 @@ layout: default
 
   <p style="text-align:center; margin:12px 0;">
     📄 If you can't scroll on mobile, 
-    <a href="../assets/pdf/CV_20250803.pdf" target="_blank" rel="noopener">open the PDF in full screen</a>.
+    <a href="../assets/pdf/CV_20250803.pdf" target="_blank" rel="noopener">
+      open the PDF in full screen
+    </a>.
   </p>
 
-  <object data="../assets/pdf/CV_20250803.pdf#pagemode=none"
-          width="750" height="1000" type="application/pdf"></object>
+  <style>
+    html, body { height: 100%; margin: 0; }
+    .pdf-wrap { position: relative; height: 100svh; }
+    .pdf-embed { width: 100%; height: 100%; border: 0; display: block; }
+  </style>
+
+  <div class="pdf-wrap">
+    <embed
+      class="pdf-embed"
+      src="../assets/pdf/CV_20250803.pdf#pagemode=none&toolbar=0&navpanes=0"
+      type="application/pdf"
+      title="CV"
+    />
+  </div>
 
 </div>
 
