@@ -23,10 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm **Shinwon Lee**, an undergraduate at [Seoul National University](https://en.snu.ac.kr/), double majoring in Computer Science and Mathematics.
-Before SNU, I completed the full curriculum at [Sejong Science High School](https://sjsh.sen.hs.kr/) in just two years — one of South Korea’s top STEM-focused schools.
+I am **Shinwon Lee**, an undergraduate at [Seoul National University](https://en.snu.ac.kr/), studying Computer Science and Mathematics.
 
-I'm broadly interested in modern cryptography, privacy-enhancing technologies, and the foundations of computer security. In particular, I enjoy thinking about , **fully homomorphic encryption**, **zero-knowledge proofs**, **secure multi-party computation**, and **the fundamental principles that underpin cryptographic theory**.
-I've been fortunate to explore these topics as an undergraduate researcher at the [SNU Crypto & Privacy Lab](https://crypto.snu.ac.kr) (with Prof. Yongsoo Song), and previously at the [SNU Cryptography Lab](https://web.math.snu.ac.kr/~jhcheon/xe2/) (with Prof. Jung Hee Cheon).
-
-I’m currently exploring opportunities for **Ph.D. programs starting Fall 2026**, and always happy to connect with people passionate about cryptography, security, and theory.
+I am interested in cryptography and aspire to contribute to a more secure world.
+My interests include **private information retrieval**, **fully homomorphic encryption**, and **lattice-based cryptography**, and I've been fortunate to work with Prof. [Yongsoo Song](https://yongsoosong.github.io/) and Prof. [Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/).

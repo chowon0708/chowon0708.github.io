@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-From June to August 2024, I will be joining *CryptoLab* in *Lyon, France* as a research intern!  
+From June to August 2024, I will be joining [CryptoLab](https://www.cryptolab.co.kr/en/home/) in *Lyon, France* as a research intern!  
