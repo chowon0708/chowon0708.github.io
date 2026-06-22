@@ -25,7 +25,7 @@ latest_posts:
 
 I am a first-year PhD student at [UC Berkeley](https://www.berkeley.edu/), advised by Prof. [Henry Corrigan-Gibbs](https://people.eecs.berkeley.edu/~henrycg/).
 
-I hope to help build a more secure and trustworthy world through cryptography.
-To this end, my research focuses on privacy enhancing technologies, including **private information retrieval**, **fully homomorphic encryption**, and **lattice-based cryptography**.
+I hope to build a more secure and trustworthy world through cryptography.
+To this end, my research focuses on privacy-enhancing technologies, including **private information retrieval**, **fully homomorphic encryption**, and **lattice-based cryptography**.
 
 Before Berkeley, I earned a B.S. in Computer Science and Mathematics from [Seoul National University](https://en.snu.ac.kr/), where I was fortunate to be advised by Prof. [Yongsoo Song](https://yongsoosong.github.io/) and Prof. [Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/).
