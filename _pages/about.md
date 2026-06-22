@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: shinwon.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,7 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am **Shinwon Lee**, an undergraduate at [Seoul National University](https://en.snu.ac.kr/), studying Computer Science and Mathematics.
+I am a first-year PhD student at [UC Berkeley](https://www.berkeley.edu/), advised by Prof. [Henry Corrigan-Gibbs](https://people.eecs.berkeley.edu/~henrycg/).
 
-I am interested in cryptography and aspire to contribute to a more secure world.
-My interests include **private information retrieval**, **fully homomorphic encryption**, and **lattice-based cryptography**, and I've been fortunate to work with Prof. [Yongsoo Song](https://yongsoosong.github.io/) and Prof. [Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/).
+I hope to help build a more secure and trustworthy world through cryptography.
+To this end, my research focuses on privacy enhancing technologies, including **private information retrieval**, **fully homomorphic encryption**, and **lattice-based cryptography**.
+
+Before Berkeley, I earned a B.S. in Computer Science and Mathematics from Seoul National University, where I was fortunate to be advised by Prof. [Yongsoo Song](https://yongsoosong.github.io/) and Prof. [Jung Hee Cheon](https://web.math.snu.ac.kr/~jhcheon/xe2/).
